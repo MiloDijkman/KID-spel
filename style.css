@@ -1,0 +1,38 @@
+body{
+  background-color: #707070;
+  margin: 0;
+  padding: 0;
+}
+
+#icon1{
+  padding-left: 25px;
+  padding-top: 25px;
+  font-size: 100px;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#icon1:hover{
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
+.image{
+width: 100%;
+padding-left: 30px;
+padding-right: 30px;
+}
+
+.image2{
+width: 100%;
+padding-left: 30px;
+padding-right: 30px;
+background-color: #555;
+transition: 0.3s;
+}
+
+.image2:hover{
+  transform: scale(1.1);
+  transition: 0.3s;
+}
